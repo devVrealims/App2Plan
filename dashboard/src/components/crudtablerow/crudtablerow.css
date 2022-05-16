@@ -1,0 +1,7 @@
+.tablerow td {
+  text-align: center;
+}
+.tablerow button {
+  color: gray;
+  margin: 2px;
+}
