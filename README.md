@@ -33,6 +33,21 @@ Dependencies Installation.
 23. yarn add react-pdf
 24. yarn add recharts
 
+CLONE THE REPOSITORY ON THE ROOT OR PLACE OF THE PROJECT IS
+
+MAKE A BUILD OF THE PROJECT
+
+yarn run build 
+
+
+
+
+
+
+
+
+
+
 
 
 
