@@ -1,0 +1,9 @@
+.flex-right {
+  flex: 7;
+  margin-left: 15px;
+  /*   width: 85%;
+   */
+}
+.buttonhover:hover {
+  color: greenyellow;
+}
