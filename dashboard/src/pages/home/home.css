@@ -1,0 +1,14 @@
+.home {
+  flex: 7;
+  margin-left: 15px;
+}
+
+.homeWidgets {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  width: 100%;
+}
+.home a {
+  text-decoration: none;
+}
