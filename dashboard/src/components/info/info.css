@@ -1,0 +1,15 @@
+.initial {
+  display: flex;
+  flex-direction: column;
+  width: 1200px;
+  /*   height: calc(166vh - 50px); */
+  height: auto;
+  position: absolute;
+  z-index: 9999;
+  background-color: rgb(58, 54, 54);
+  opacity: 0.9;
+  margin-left: -50px;
+  margin-top: 15px;
+  /* border: dotted 2px rgb(73, 72, 72); */
+  border-radius: 0.9%;
+}
