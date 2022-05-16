@@ -1,0 +1,13 @@
+.table {
+  width: 90%;
+  /*  border: 1px solid black;
+ */
+  margin-left: 10px;
+}
+
+.table th {
+  width: 200px;
+}
+.table td {
+  width: 200px;
+}
