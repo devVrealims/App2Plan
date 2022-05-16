@@ -24,4 +24,11 @@ Dependencies Installation.
 14. yarn add react-router-dom
 15. yarn add recharts   
 16. yarn add @material-ui/icons
-17. 
+17. yarn add @react-pdf/renderer
+18. yarn add date-fns
+19. yarn add gapi-script
+20. yarn add react-datepicker
+21. yarn add react-day-picker
+22. yarn add react-google-drive-picker
+23. yarn add react-pdf
+24. 
