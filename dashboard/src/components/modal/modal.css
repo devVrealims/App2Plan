@@ -1,0 +1,141 @@
+.initc {
+  display: "flex";
+  /* flex: 10; */
+  flex-direction: row;
+  /* width: 1200px */
+  width: auto;
+  /* height: calc(120vh - 50px); */
+  height: "auto";
+  position: absolute;
+  z-index: 9999;
+  /* background-color: gray; */
+  /*   opacity: 0.9; */
+  margin-left: -50px;
+  margin-top: 15px;
+  /*   border: dotted 2px rgb(73, 72, 72); */
+  background-color: #34537c;
+  border-radius: 1%;
+}
+.initc-container {
+  width: 1200px;
+  /* height: 3500px; */
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  /*  justify-content: center;*/
+  /* background-color: #34537c; */
+  /*  opacity: 0.9; */
+  /* border-radius: 5%; */
+  margin-top: 10px;
+  margin-left: 10px;
+  /*  border: dotted 2px red; */
+}
+
+/* .initc-container h3 {
+  margin-top: 30px;
+  color: aliceblue;
+} */
+/* .initc-container p {
+  margin-top: 30px;
+  margin-left: 50px;
+  color: rgb(255, 244, 240);
+  font-weight: bold;
+  font-size: 30px;
+} */
+
+.firstrow {
+  display: inline-flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.firstrow input[type="text"] {
+  background-color: rgba(72, 236, 22, 0.281);
+  color: white;
+}
+
+.firstrow input[type="date"] {
+  background-color: rgb(238, 94, 94);
+  color: white;
+}
+.firstrow input[type="time"] {
+  background-color: rgb(64, 192, 243);
+  color: white;
+}
+.secondrow {
+  display: inline-flex;
+  justify-content: space-around;
+  margin-top: 20px;
+  /*  border: dotted 1px white; */
+}
+.thirdrow {
+  width: auto;
+  display: inline-flex;
+  justify-content: space-around;
+  margin-top: 10px;
+  /* border: dotted 1px red; */
+}
+.fourthrow {
+  display: inline-flex;
+  justify-content: space-around;
+  margin-top: 10px;
+  /*  border: dotted 1px yellow; */
+}
+.fifth {
+  display: inline-flex;
+  justify-content: initial;
+  margin-top: 10px;
+  margin-left: 50px;
+  /*  border: dotted 1px orange;*/
+}
+.sixth {
+  display: inline-flex;
+  justify-content: space-around;
+  margin-top: 10px;
+}
+.seventh {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  /*  border: dotted 1px orangered; */
+}
+.eight {
+  display: flex;
+  flex-direction: row;
+}
+
+.nineth {
+  display: flex;
+  flex-direction: row;
+  margin-top: -30px;
+}
+.tenth {
+  display: flex;
+  flex-direction: row;
+}
+.eleventh {
+  display: flex;
+  flex-direction: column;
+  margin-left: 150px;
+}
+.projdesc {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: initial;
+  margin-top: 40px;
+  margin-left: 10px;
+  color: white;
+  /*   border: dotted 1px white; */
+}
+
+.projdesc p {
+  font-size: 20px;
+}
+.projdesc svg {
+  padding: 3px;
+}
+.projdesc svg:hover {
+  font-size: 30px;
+}
