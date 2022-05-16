@@ -31,4 +31,11 @@ Dependencies Installation.
 21. yarn add react-day-picker
 22. yarn add react-google-drive-picker
 23. yarn add react-pdf
-24. 
+24. yarn add recharts
+
+
+
+
+
+
+
