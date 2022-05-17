@@ -32,6 +32,7 @@ Dependencies Installation.
 22. yarn add react-google-drive-picker
 23. yarn add react-pdf
 24. yarn add recharts
+25. yarn add @emotion/react
 
 CLONE THE REPOSITORY ON THE ROOT OR PLACE OF THE PROJECT IS
 
